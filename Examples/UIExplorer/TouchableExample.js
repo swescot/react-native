@@ -332,7 +332,7 @@ var TouchableDisabled = React.createClass({
           style={[styles.row, styles.block]}
           onPress={() => console.log('custom THW text - highlight')}>
           <Text style={styles.button}>
-            Disabled TouchableHighlight
+            Enabled TouchableHighlight
           </Text>
         </TouchableHighlight>
 
